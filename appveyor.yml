@@ -34,6 +34,14 @@ test_script:
   - ps: "npm test # PowerShell" # Pass comment to PS for easier debugging
   - cmd: npm test
 
+
+notifications:
+  - provider: Webhook
+    url: https://webhooks.gitter.im/e/9602c8ac36f49ad8dbe0
+    on_build_success: true
+    on_build_failure: true
+    on_build_status_changed: true
+
 # Don't actually build.
 build: off
 
