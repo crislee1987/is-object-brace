@@ -1,7 +1,7 @@
 is-object-brace
 ===============
 
-[![MIT LICENSE](https://camo.githubusercontent.com/377eda57da4e5aff0480df11e5a0ada0b5d95903/687474703a2f2f696d672e736869656c64732e696f2f6e706d2f6c2f69732d6f626a6563742e737667)](https://github.com/iTonyYo/WSK_IMAGE/blob/master/LICENSE '点击 · Click')
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/iTonyYo/is-object-brace '点击 · Click') [![Build Status](https://drone.io/github.com/iTonyYo/is-object-brace/status.png)](https://drone.io/github.com/iTonyYo/is-object-brace/latest '点击 · Click') [![Build status](https://ci.appveyor.com/api/projects/status/vdnhql6hc7ukhr51/branch/master?svg=true)](https://ci.appveyor.com/project/iTonyYo/is-object-brace/branch/master '点击 · Click') [![Build Status](https://travis-ci.org/iTonyYo/is-object-brace.svg)](https://travis-ci.org/iTonyYo/is-object-brace) [![Project Dependencies](https://david-dm.org/iTonyYo/is-object-brace.png)](https://david-dm.org/iTonyYo/is-object-brace '点击 · Click') [![Project devDependencies](https://david-dm.org/iTonyYo/is-object-brace/dev-status.png)](https://david-dm.org/iTonyYo/is-object-brace#info=devDependencies '点击 · Click') [![Issues Closed In...](http://img.shields.io/badge/Issues%20Closed%20In-Not%20Available-red.svg?style=flat)](http://issuestats.com/github/iTonyYo/is-object-brace '点击 · Click') [![Pull Request Closed In...](http://img.shields.io/badge/Pull%20Requests%20Closed%20In-5%20minutes-brightgreen.svg?style=flat)](http://issuestats.com/github/iTonyYo/is-object-brace '点击 · Click') [![MIT LICENSE](https://camo.githubusercontent.com/377eda57da4e5aff0480df11e5a0ada0b5d95903/687474703a2f2f696d672e736869656c64732e696f2f6e706d2f6c2f69732d6f626a6563742e737667)](https://github.com/iTonyYo/WSK_IMAGE/blob/master/LICENSE '点击 · Click')
 
 ![NPM · downloads, rank and stars](https://nodei.co/npm/is-object-brace.png?downloads=true&downloadRank=true&stars=true)
 
@@ -86,4 +86,3 @@ See also [*LICENSE*](https://github.com/iTonyYo/is-object-brace/blob/master/LICE
 
 
 [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/iTonyYo/is-object-brace/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
-
