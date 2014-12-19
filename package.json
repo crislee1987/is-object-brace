@@ -64,11 +64,7 @@
 
 	},
 
-	"dependencies": {
-
-		"amp-is-function": "^1.0.0"
-
-	},
+	"dependencies": {},
 
 	"devDependencies": {
 
