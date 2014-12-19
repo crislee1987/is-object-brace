@@ -19,8 +19,6 @@ I used a few utility functions when I am writing [*node-find-folder*](https://gi
 Usage
 -----
 
-> I made it support UMD (Universal Module Definition) patterns, so it can work everywhere.
-
 **Install**
 
 ![how to install](https://nodei.co/npm/is-object-brace.png?mini=true)
