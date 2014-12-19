@@ -1,1 +1,1 @@
-"use strict";var fn,isFn;isFn=require("amp-is-function"),fn=function(){var t;return t="[object Object]"===Object.prototype.toString.call(arguments[0])?!0:!1},module.exports=fn;
+"use strict";var fn;fn=function(){var t;return t="[object Object]"===Object.prototype.toString.call(arguments[0])?!0:!1},module.exports=fn;

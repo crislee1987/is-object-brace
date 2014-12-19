@@ -10,10 +10,6 @@
 
 
 
-isFn = require 'amp-is-function'
-
-
-
 fn = ->
 
 	rslt = if Object::toString.call(arguments[0]) is '[object Object]' then true else false
