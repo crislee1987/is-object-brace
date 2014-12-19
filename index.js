@@ -1,1 +1,1 @@
-"use strict";var fn,isFn,umd;isFn=require("amp-is-function"),fn=function(){var t;return t="[object Object]"===Object.prototype.toString.call(arguments[0])?!0:!1},(umd=function(){var t;t=arguments[0],isFn(t)&&("function"==typeof define&&define.amd?define(function(){return this.isObject=t}):"object"==typeof exports?module.exports=t:this.isObject=t)})(fn);
+"use strict";var fn,isFn;isFn=require("amp-is-function"),fn=function(){var t;return t="[object Object]"===Object.prototype.toString.call(arguments[0])?!0:!1},module.exports=fn;
