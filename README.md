@@ -58,11 +58,11 @@ Helping `is-object-brace`
 
 #### I found a bug!
 
-If you found a repeatable bug, and tips from [*Usage*]( '点击 · Click') section didn't help, then be sure to [*search existing issues*](https://github.com/iTonyYo/is-object-brace/issues '点击 · Click') first. If there's no content is similar with the problem you found, welcome you to create a new issue you found!
+If you found a repeatable bug, and tips from [*Usage*](https://github.com/iTonyYo/is-object-brace#primer '点击 · Click') section didn't help, then be sure to [*search existing issues*](https://github.com/iTonyYo/is-object-brace/issues '点击 · Click') first. If there's no content is similar with the problem you found, welcome you to create a new issue you found!
 
 #### I want to help with the code!
 
-Awesome! I use Github to managed code. So there are lots of ways you can help. First read [*CONTRIBUTING.md*](https://github.com/iTonyYo/is-object-brace/blob/master/doc/CONTRIBUTION.md '点击 · Click'), then learn [*be social with Github*](https://help.github.com/articles/be-social/) and [*how to pull the repo*](https://help.github.com/articles/creating-a-pull-request/ '点击 · Click') on `node-find-folder`.
+Awesome! I use Github to managed code. So there are lots of ways you can help. First read [*CONTRIBUTING.md*](https://github.com/iTonyYo/is-object-brace/blob/master/doc/CONTRIBUTION.md '点击 · Click'), then learn [*be social with Github*](https://help.github.com/articles/be-social/) and [*how to pull the repo*](https://help.github.com/articles/creating-a-pull-request/ '点击 · Click') on `is-object-brace`.
 
 
 
